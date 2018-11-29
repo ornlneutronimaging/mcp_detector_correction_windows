@@ -1,0 +1,6 @@
+{
+    "app_name": "fbs_tutorial",
+    "main_module": "src/main/python/main.py",
+    "author": "J35",
+    "version": "0.0.1"
+}
